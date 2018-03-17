@@ -1,0 +1,13 @@
+body {
+	background-color: #FF9933;
+}
+#test{
+	max-width: 60%;
+	text-align: justify;
+}
+.formularz {
+	background-color: yellow;
+}
+h3:hover {
+	color: blue;
+}
